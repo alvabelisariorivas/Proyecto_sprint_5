@@ -25,3 +25,6 @@ Los usuarios pueden ver un gráfico de barras apiladas que muestra la distribuci
 
 Los usuarios pueden seleccionar dos fabricantes y comparar la distribución de precios de sus vehículos utilizando un histograma.
 
+# URL de la aplicación
+
+https://proyecto-sprint-5-xwm1.onrender.com
